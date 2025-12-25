@@ -16,6 +16,7 @@ class Banu extends Akash {
 	}
 
 	public void f4() {
+		System.out.println("Inside s");
 		System.out.print("inside e");
 	}
 
